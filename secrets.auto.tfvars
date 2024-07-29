@@ -1,3 +1,1 @@
-
-
 yc_token = "y0_AgAAAAA2wIBUAATuwQAAAAEL3LBKAADRoQvhk4FLNpQUlbmzM6bipdYsZw"
