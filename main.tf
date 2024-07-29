@@ -1,5 +1,4 @@
 
-// main.tf - и файла выбрано произвольно, важно только расширение
 terraform {
   required_providers {
     yandex = {
